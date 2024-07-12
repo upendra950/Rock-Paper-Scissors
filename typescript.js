@@ -1,0 +1,12 @@
+var fname = "upendra";
+var lname = "bellana";
+console.log(fname);
+console.log(lname);
+var json = JSON.parse("55");
+console.log(json);
+var a = [1, 2, 3,];
+console.log(a);
+var ab;
+ab = 10;
+ab = "string";
+console.log(typeof ab);
